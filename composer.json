@@ -1,0 +1,9 @@
+{
+    "name": "Framework",
+    "license": "MIT",
+    "type": "project",
+    "description": "Simple Web Framework",
+    "require": {
+        "symfony/yaml": "2.5.6"
+    }
+}
